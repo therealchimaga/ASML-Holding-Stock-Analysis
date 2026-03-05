@@ -59,7 +59,7 @@ The market appears to be missing three critical insights from ASML's Q2 and Q3 2
 | ROIC | 35.2% |
 | Net Cash | €12.6B |
 
-![ASML Investment Summary Dashboard](images/investment_summary_dashboard.png)
+![ASML Investment Summary Dashboard](investment_summary_dashboard.png)
 *Figure ES.1: ASML Investment Summary Dashboard — Key Metrics, EUV Market Share (100%), and 8-Year Return vs. S&P 500 (+580% vs +152%)*
 
 ---
@@ -87,7 +87,7 @@ The CFO's guidance that China would moderate from 27% of 2025 revenue to approxi
 
 China is restricted from purchasing EUV systems under Dutch and US export controls. Chinese fabs therefore purchase only mature-node DUV systems at 28nm and above — the lowest-margin segment of ASML's portfolio. When China revenue declines as a share of total, the remaining revenue mix shifts toward higher-margin EUV, mechanically expanding consolidated gross margins.
 
-![China Revenue Normalization & Margin Expansion](images/china_margin_expansion.png)
+![China Revenue Normalization & Margin Expansion](china_margin_expansion.png)
 *Figure ES.2: China revenue normalization drives product mix toward higher-margin EUV, producing consolidated gross margin expansion even on flat total revenue.*
 
 ### Insight 2: High NA EUV Creates Unprecedented Pricing Power
@@ -104,7 +104,7 @@ Standard EUV systems price at approximately €170M per machine. High NA systems
 
 IBM revenue reached €2.1B in Q2 2025 and €2.0B in Q3 2025, growing 20%+ year-over-year. At an annualized run rate of ~€8B and 20% growth applied forward, IBM alone approaches €9.6B in annual revenue by end of 2026. These are spare parts and service contracts — recurring, high-margin, and protected by the same vendor lock-in that makes ASML's equipment impossible to replace.
 
-![Installed Base Management Revenue Projection](images/ibm_revenue_projection.png)
+![Installed Base Management Revenue Projection](ibm_revenue_projection.png)
 *Figure ES.4: IBM segment revenue trajectory: €2.7B (2020) → €6.5B (2024) → €11.5B (2029E) at 65%+ gross margins.*
 
 ---
@@ -128,7 +128,7 @@ The moat is physics-based rather than economic or regulatory. At 7nm and below, 
 | Installed Base Mgmt | €1.9B | €6.5B | +242% | 22.7% | 65% |
 | **Total ASML** | **€10.9B** | **€28.3B** | **+160%** | **17.1%** | **51.3%** |
 
-![2024 Revenue Composition by Segment](images/revenue_composition_2024.png)
+![2024 Revenue Composition by Segment](revenue_composition_2024.png)
 *Figure 1.1: 2024 Revenue Composition — EUV systems now represent 46% of total revenue at the highest margins in the portfolio.*
 
 ### 1.3 Geographic Exposure & Customer Base
@@ -142,7 +142,7 @@ The moat is physics-based rather than economic or regulatory. At 7nm and below, 
 | Micron | 5–8% | DUV, IBM | DRAM, NAND |
 | Chinese Fabs | 15–27% | DUV only | 28nm+ |
 
-![Geographic Revenue Distribution](images/geographic_revenue.png)
+![Geographic Revenue Distribution](geographic_revenue.png)
 *Figure 1.2: Taiwan (38%) dominates geographic exposure, followed by South Korea (27%) and China (18%), with the US at 12%.*
 
 ---
@@ -153,7 +153,7 @@ The moat is physics-based rather than economic or regulatory. At 7nm and below, 
 
 For ASML, this analysis reveals what may be the strongest competitive position in global technology sector analysis.
 
-![Porter's Five Forces — ASML](images/porters_five_forces.png)
+![Porter's Five Forces — ASML](porters_five_forces.png)
 *Figure 2.1: Porter's Five Forces — ASML scores near-maximum across all five dimensions, driven by zero competitive rivalry in EUV and effectively zero threat of substitution.*
 
 | Force | Intensity | Key Factor | Duration |
@@ -186,7 +186,7 @@ If China — with unlimited state funding and strategic imperative — cannot cl
 
 ASML grew revenue from €10.9B in 2018 to €28.3B in 2024, a **17.1% CAGR** that outpaced all semiconductor equipment peers: Applied Materials (11.2%), Lam Research (13.5%), and KLA (14.8%).
 
-![ASML Revenue Growth 2018–2024](images/revenue_growth_2018_2024.png)
+![ASML Revenue Growth 2018–2024](revenue_growth_2018_2024.png)
 *Figure 3.1: ASML Revenue Growth 2018–2024 at 17.1% CAGR, accelerating into the EUV ramp and AI infrastructure cycle.*
 
 | Metric | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | CAGR |
@@ -201,7 +201,7 @@ ASML grew revenue from €10.9B in 2018 to €28.3B in 2024, a **17.1% CAGR** th
 
 ### 3.2 Income Statement Deep Dive (2024)
 
-![2024 Income Statement Waterfall](images/income_statement_waterfall.png)
+![2024 Income Statement Waterfall](income_statement_waterfall.png)
 *Figure 3.2: ASML 2024 Income Statement Cascade — Revenue €28.3B flows to Net Income €7.4B at 26.1% net margin, demonstrating exceptional operating leverage.*
 
 | Line Item | 2024 (€M) | % Revenue | YoY Change |
@@ -216,17 +216,17 @@ ASML grew revenue from €10.9B in 2018 to €28.3B in 2024, a **17.1% CAGR** th
 
 The balance sheet is genuinely fortress-grade. €14.8B in cash and investments represents **52% of total assets**, while total debt of just €2.2B creates a €12.6B net cash position with 65× interest coverage. Capital intensity is approximately 4% of revenue — asset-light relative to TSMC's $140B in PP&E — enabling exceptionally high free cash flow conversion.
 
-![ASML Balance Sheet Composition](images/balance_sheet_composition.png)
+![ASML Balance Sheet Composition](balance_sheet_composition.png)
 *Figure 3.3: ASML Balance Sheet — Net cash of €12.6B, 2.65× current ratio, and Debt/Equity of 0.13× demonstrate financial strength peers cannot match.*
 
 ### 3.4 Cash Flow Generation
 
-![2024 Cash Flow Waterfall](images/cashflow_waterfall.png)
+![2024 Cash Flow Waterfall](cashflow_waterfall.png)
 *Figure 3.4: ASML 2024 Cash Flow Generation — 100%+ conversion from Net Income to Operating Cash Flow; FCF margin of 26.8%, returning €4.0B to shareholders through dividends and buybacks.*
 
 ### 3.5 Financial Ratio Benchmarking
 
-![ASML Financial Health Dashboard](images/financial_health_dashboard.png)
+![ASML Financial Health Dashboard](financial_health_dashboard.png)
 *Figure 3.5: Financial Health Dashboard — ASML rates "Superior" or "Exceptional" across all eight key ratio categories versus semiconductor equipment industry averages.*
 
 | Category | Metric | 2024 | Industry Avg | Assessment |
@@ -248,12 +248,12 @@ The balance sheet is genuinely fortress-grade. €14.8B in cash and investments 
 
 From January 2018 to January 2026, ASML delivered **+580% cumulative returns** versus the S&P 500's +152%, outperforming by 428 percentage points. On an annualized basis: 27.1% versus 12.3%. A $10,000 investment in ASML in 2018 was worth $68,000 in January 2026 versus $25,200 in the index.
 
-![ASML vs S&P 500 Cumulative Performance 2018–2026](images/cumulative_performance.png)
+![ASML vs S&P 500 Cumulative Performance 2018–2026](cumulative_performance.png)
 *Figure SP.1: ASML delivered 580% cumulative returns from Jan 2018 to Jan 2026 (+428 percentage points above the S&P 500), driven by EUV adoption and AI infrastructure demand.*
 
 ### Annual Returns Analysis
 
-![ASML vs S&P 500 Trailing 12-Month Performance](images/ttm_performance.png)
+![ASML vs S&P 500 Trailing 12-Month Performance](ttm_performance.png)
 *Figure SP.3: Trailing 12-month performance (Jan 2025–Jan 2026): ASML +80% versus S&P 500 +17%, representing 63 percentage points of outperformance with low 0.32 correlation to the benchmark.*
 
 | Year | ASML Return | S&P 500 | Relative | Key Driver |
@@ -271,7 +271,7 @@ ASML outperformed the S&P 500 in **six of eight years**. The two years of underp
 
 ### Key Price Catalysts
 
-![ASML Stock Price with Annotated Catalysts](images/price_catalysts_chart.png)
+![ASML Stock Price with Annotated Catalysts](price_catalysts_chart.png)
 *Figure SP.2: ASML Stock Price with Key Catalysts 2023–2026, illustrating reactions to China export restrictions (-8%), Q2 2024 earnings beat (+12%), Microsoft $80B AI announcement (+15%), and Q3 2025 High NA milestone (ATH).*
 
 ---
@@ -280,7 +280,7 @@ ASML outperformed the S&P 500 in **six of eight years**. The two years of underp
 
 ### 4.1 Financial Comparison
 
-![Semiconductor Equipment Peer Comparison](images/peer_comparison_bars.png)
+![Semiconductor Equipment Peer Comparison](peer_comparison_bars.png)
 *Figure 4.1: ASML vs. Peers — Revenue CAGR, Gross Margin, ROE, and ROIC comparisons confirm ASML's leadership on growth and returns metrics across the semiconductor equipment landscape.*
 
 | Metric | ASML | AMAT | LRCX | KLAC |
@@ -299,7 +299,7 @@ What distinguishes ASML is not absolute return performance but **risk-adjusted r
 
 ### 4.2 Market Share by Segment
 
-![Semiconductor Equipment Market Share by Segment](images/market_share_chart.png)
+![Semiconductor Equipment Market Share by Segment](market_share_chart.png)
 *Figure 4.2: ASML's 100% EUV and 85% DUV market share versus fragmented competitive dynamics in deposition, etch, and inspection — illustrating the unique nature of the lithography moat.*
 
 ---
@@ -310,7 +310,7 @@ What distinguishes ASML is not absolute return performance but **risk-adjusted r
 
 Revenue projections rest on four quantifiable drivers: (1) EUV unit shipments +8–12% annually; (2) High NA mix increasing from 5% (2025) to 35% (2029); (3) DUV declining 5–8% annually; (4) IBM growing 15–18% annually.
 
-![Revenue Forecast by Segment 2024–2029](images/revenue_forecast_segments.png)
+![Revenue Forecast by Segment 2024–2029](revenue_forecast_segments.png)
 *Figure 5.1: Revenue Forecast by Segment 2024–2029 — EUV mix expands from 46% to 65% of revenue as High NA ramps and DUV declines; total revenue grows from €28.3B to €52.0B.*
 
 | Metric | 2024A | 2025E | 2026E | 2027E | 2028E | 2029E | CAGR |
@@ -323,7 +323,7 @@ Revenue projections rest on four quantifiable drivers: (1) EUV unit shipments +8
 
 ### 5.2 DCF Valuation Model
 
-![DCF Valuation Waterfall](images/dcf_waterfall.png)
+![DCF Valuation Waterfall](dcf_waterfall.png)
 *Figure 5.3: DCF Valuation Waterfall — Base case equity value of €460 per share implies 52% discount to current price; the gap is justified by monopoly premium embedded in market valuation.*
 
 | DCF Component | Base Case | Bull Case | Bear Case |
@@ -338,12 +338,12 @@ Revenue projections rest on four quantifiable drivers: (1) EUV unit shipments +8
 
 ### 5.3 Relative Valuation
 
-![Relative Valuation Multiple Comparison](images/relative_valuation_multiples.png)
+![Relative Valuation Multiple Comparison](relative_valuation_multiples.png)
 *Figure 5.4: ASML trades at a 87–134% premium across all valuation multiples versus semiconductor equipment peers. Premium is justified by 100% EUV monopoly, highest revenue visibility, and mission-critical AI infrastructure position.*
 
 ### 5.4 Sensitivity Analysis — 2027E EPS
 
-![2027E EPS Sensitivity Heatmap](images/eps_sensitivity_heatmap.png)
+![2027E EPS Sensitivity Heatmap](eps_sensitivity_heatmap.png)
 *Figure 5.5: 2027E EPS Sensitivity Heatmap — Base case (€42B revenue × 55% gross margin) yields €33.98 EPS; upside scenario (€44B × 59%) reaches €40.11.*
 
 | 2027E EPS (€) | GM 53% | GM 55% | GM 57% | GM 59% |
@@ -357,7 +357,7 @@ Revenue projections rest on four quantifiable drivers: (1) EUV unit shipments +8
 
 Using multivariate regression on semiconductor equipment sector data (ROE, revenue CAGR, gross margin as independent variables), the model predicts a fundamental P/E of **81–85×** for ASML versus the current 47×.
 
-![P/E vs ROE Regression Scatter Plot](images/pe_roe_regression.png)
+![P/E vs ROE Regression Scatter Plot](pe_roe_regression.png)
 *Figure 5.6: P/E vs. ROE Regression — ASML trades at a significant premium to the sector regression line (actual 47× vs implied 25×), but multivariate regression including growth and margins yields a predicted P/E of 81×, suggesting the stock may actually trade at a 42% discount to fundamentals-justified valuation when monopoly quality factors are incorporated.*
 
 ```
@@ -381,7 +381,7 @@ ASML Implied P/E: 81.2×  |  Actual P/E: 47.0×  |  Discount: -42%
 
 ### 6.1 Recommendation Distribution (n=50 analysts)
 
-![Analyst Recommendation Distribution](images/analyst_recommendation_pie.png)
+![Analyst Recommendation Distribution](analyst_recommendation_pie.png)
 *Figure 6.1: Wall Street Consensus — 84% of covering analysts rate ASML Buy or Strong Buy with zero Sell ratings. Consensus score of 1.80 (1.0 = Strong Buy).*
 
 | Rating | Count | % | Key Firms |
@@ -393,7 +393,7 @@ ASML Implied P/E: 81.2×  |  Actual P/E: 47.0×  |  Discount: -42%
 
 ### 6.2 Price Target Distribution
 
-![Analyst Price Target Distribution](images/price_target_distribution.png)
+![Analyst Price Target Distribution](price_target_distribution.png)
 *Figure 6.2: Analyst Price Target Distribution (37 analysts) — Range €780–€1,650, mean €1,076, median €1,050. Current price of €1,326 sits above 89% of analyst targets, with only the highest-conviction bulls (Morgan Stanley €1,650) above market.*
 
 | Analyst Firm | Rating | Price Target | Date |
@@ -407,7 +407,7 @@ ASML Implied P/E: 81.2×  |  Actual P/E: 47.0×  |  Discount: -42%
 
 ### 6.3 Estimate Revision Momentum
 
-![EPS Estimate Revision Trend](images/estimate_revisions.png)
+![EPS Estimate Revision Trend](estimate_revisions.png)
 *Figure 6.3: Estimate Revision Momentum — 76% of all estimate changes have been upward revisions versus 24% downward over the trailing 12 months, significantly above the typical 50–55% positive rate. Net positive revisions every month for 12 consecutive months.*
 
 ---
@@ -439,7 +439,7 @@ The CHIPS and Science Act provides $52B in subsidies for domestic semiconductor 
 
 The AI infrastructure buildout represents the largest technology capital expenditure cycle since the internet buildout of the late 1990s. Hyperscaler AI capital expenditure is projected to exceed $400B through 2028.
 
-![Hyperscaler AI CapEx Projections](images/hyperscaler_capex.png)
+![Hyperscaler AI CapEx Projections](hyperscaler_capex.png)
 *Figure 9.1: Hyperscaler AI Infrastructure CapEx — "Big 4" combined spending grows from $193B (2024) to $438B (2028E) at 23% CAGR, representing the primary driver of advanced semiconductor demand.*
 
 ### ASML as the Unavoidable Chokepoint
@@ -474,7 +474,7 @@ CEO **Christophe Fouquet** assumed leadership in April 2024 following Peter Wenn
 
 ### Institutional Ownership
 
-![Top 10 Institutional Shareholders](images/institutional_ownership.png)
+![Top 10 Institutional Shareholders](institutional_ownership.png)
 *Figure 10.1: Institutional Ownership — ~85% institutional ownership concentrated among long-term holders (average 4+ year hold). Capital Group is the largest holder since 2018, followed by BlackRock (7.2%) and Baillie Gifford (5.1%).*
 
 | Owner | Ownership | $ Value |
@@ -503,7 +503,7 @@ The concentration of long-duration, fundamentals-oriented institutions provides 
 
 ### 11.2 Scenario Analysis
 
-![Investment Scenario Analysis](images/scenario_analysis.png)
+![Investment Scenario Analysis](scenario_analysis.png)
 *Figure 11.1: Scenario Analysis — Probability-weighted target of €1,180 (–13% from current) reflects asymmetric risk from current valuation level, with Bull case (+22%) and Bear case (–37%) bounding the distribution.*
 
 | Scenario | Probability | 2027 Revenue | 2027 EPS | Target Price | Return |
@@ -538,31 +538,31 @@ This is not a cyclical semiconductor exposure story. This is **monopoly infrastr
 
 ### A. Complete Historical Financial Statements
 
-![ASML Historical Financial Summary](images/appendix_financial_summary.png)
+![ASML Historical Financial Summary](appendix_financial_summary.png)
 *Appendix A: ASML Historical Financial Summary (2018–2024) — Panel A: Revenue/GP/NI trends; Panel B: Margin evolution; Panel C: Balance sheet growth; Panel D: Cash generation and ROE trajectory.*
 
 ### B. Detailed Peer Comparison Tables
 
-![Valuation Metrics Comparison](images/appendix_peer_valuation.png)
+![Valuation Metrics Comparison](appendix_peer_valuation.png)
 *Appendix B, Panel A: Valuation metrics — ASML trades at 2×+ premium across P/E, EV/EBITDA, P/S, and EV/Revenue; lowest FCF yield (1.5%) reflects high valuation, not weak cash generation.*
 
-![Profitability & Efficiency Metrics](images/appendix_peer_profitability.png)
+![Profitability & Efficiency Metrics](appendix_peer_profitability.png)
 *Appendix B, Panel B: Profitability and efficiency — ASML superior to AMAT/LRCX on gross and operating margins; lowest SG&A/Revenue (4.6%) demonstrates operational efficiency.*
 
-![Growth Metrics Comparison](images/appendix_peer_growth.png)
+![Growth Metrics Comparison](appendix_peer_growth.png)
 *Appendix B, Panel C: Growth metrics — ASML leads on all long-term CAGRs; 5Y Revenue CAGR of 17.1% versus 11.2–14.8% for peers; 25% dividend CAGR signals management confidence.*
 
-![Financial Health Summary Scorecard](images/appendix_peer_health.png)
+![Financial Health Summary Scorecard](appendix_peer_health.png)
 *Appendix B, Panel D: Overall scorecard — ASML 8.3/10 versus peers at 7.0/10; fortress balance sheet, lowest leverage, and A+ credit rating versus BBB+ for LRCX and KLAC.*
 
 ### C. DCF Model Assumptions & Calculations
 
-![DCF Model Detail](images/appendix_dcf_detail.png)
+![DCF Model Detail](appendix_dcf_detail.png)
 *Appendix C: DCF Model — WACC 9.2% (risk-free 2.5%, ERP 5.5%, beta 1.25), Terminal growth 3.0%, Terminal value €291B representing 78% of EV. Base case per-share value €432; sensitivity range €342–€580.*
 
 ### D. Statistical Analysis Details
 
-![Regression Analysis Detail](images/appendix_regression.png)
+![Regression Analysis Detail](appendix_regression.png)
 *Appendix D: Regression Analysis — R² = 0.78; ASML residual = +10 (trading above sector regression line), but multivariate model incorporating monopoly-quality variables yields predicted P/E of 81.2× versus actual 47.0×, a -42% discount to fundamentals-justified valuation.*
 
 ---
